@@ -1,3 +1,9 @@
+/*
+  Author: Wong Zheng Jie
+  Email: wzhengjie99@gmail.com
+*/
+
+
 var musicBoxColour = '#ffffff';
 var musicBoxStrokeColour = '#3d44ff';
 var musicNotesColour = '#eeff00';

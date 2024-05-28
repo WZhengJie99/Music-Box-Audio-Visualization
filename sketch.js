@@ -1,3 +1,9 @@
+/*
+  Author: Wong Zheng Jie
+  Email: wzhengjie99@gmail.com
+*/
+
+
 //global for the controls and input 
 var controls = null;
 //store visualisations in a container
